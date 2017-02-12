@@ -13,7 +13,7 @@ Berikut adalah hasil screenshoot aplikasinya : <br><br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/5.PNG)<br>
 ### *__Maka, di halaman utama/beranda, judul item akan berubah sesuai yang telah diedit sebelumnya__*
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/6.PNG)<br>
-### *__Coba klik "hapus" pada item Manhattan, maka Manhattan terhapus dan muncul pemberitahuan bahwa item telah dihapus dengan terdapat "UNDO" untuk mengembalikan item yang terhapus tersebut__*
+### *__Coba klik "DELETE" pada item Manhattan, maka Manhattan terhapus dan muncul pemberitahuan bahwa item telah dihapus dengan terdapat "UNDO" untuk mengembalikan item yang terhapus tersebut__*
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/7.PNG)<br>
 ### *__Klik tombol search atau kaca pembesar di atas untuk mencari item tempat yang diinginkan__*
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/8.PNG)<br>
@@ -22,6 +22,7 @@ Berikut adalah hasil screenshoot aplikasinya : <br><br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/10.PNG)<br>
 ### *__Maka di halaman utama/beranda, judul item tempat akan berubah sesuai yang diedit tadi__*
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/11.PNG)<br>
+### *__Coba search lagi item tempat dan klik "DELETE"__*
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/12.PNG)<br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/13.PNG)<br><br><br>
 
