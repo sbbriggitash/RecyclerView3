@@ -7,6 +7,7 @@ Berikut adalah hasil screenshoot aplikasinya : <br><br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/1.PNG)<br><br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/2.PNG)<br><br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/3.PNG)<br><br>
+### *__Memilih salah satu item dan langsung menampilkan halaman deskripsi__*
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/4.PNG)<br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/5.PNG)<br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/6.PNG)<br>
