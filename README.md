@@ -25,6 +25,10 @@ Berikut adalah hasil screenshoot aplikasinya : <br><br>
 ### *__Coba search lagi item tempat dan klik "DELETE"__*
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/12.PNG)<br>
 ### *__Maka, item tempat yang dihapus tadi tidak muncul di halaman utama/beranda__*
-![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/13.PNG)<br><br><br>
+![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/13.PNG)<br>
+### *__Klik tombol add berwarna pink di bawah untuk menambah item hotel, lalu klik simpan__*
+![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/14.PNG)<br>
+### *__Maka, akan muncul item hotel yang baru dibuat tersebut di halaman utama/beranda__*
+![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/15.PNG)<br><br><br>
 
 ## Shafhira Briggita Y._XI RPL 4_31_4836/1555.070_SMK Telkom Malang
