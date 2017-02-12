@@ -13,6 +13,7 @@ Berikut adalah hasil screenshoot aplikasinya : <br><br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/5.PNG)<br>
 ### *__Maka, di halaman utama/beranda, judul item akan berubah sesuai yang telah diedit sebelumnya__*
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/6.PNG)<br>
+### *__Coba klik "hapus" pada item Manhattan, maka Manhattan terhapus dan muncul pemberitahuan bahwa item telah dihapus dengan terdapat "UNDO" untuk mengembalikan item yang terhapus tersebut__*
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/7.PNG)<br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/8.PNG)<br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/9.PNG)<br>
