@@ -15,6 +15,7 @@ Berikut adalah hasil screenshoot aplikasinya : <br><br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/6.PNG)<br>
 ### *__Coba klik "hapus" pada item Manhattan, maka Manhattan terhapus dan muncul pemberitahuan bahwa item telah dihapus dengan terdapat "UNDO" untuk mengembalikan item yang terhapus tersebut__*
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/7.PNG)<br>
+### *__Klik tombol search atau kaca pembesar di atas untuk mencari item tempat yang diinginkan__*
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/8.PNG)<br>
 ![screenshots](https://github.com/sbbriggitash/RecyclerView3/blob/master/9.PNG)<br>
 ### *__Maka aplikasi dialihkan pada aplikasi kamera yang ada pada device yang digunakan dan coba mengambil gambar sekali, lalu klik OK__*
